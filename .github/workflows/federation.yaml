@@ -1,4 +1,4 @@
-name: Azure Login via OIDC #sample-demo
+name: Azure Login via OIDC #sample-demo for without service principal
 
 on:
   push:
